@@ -29,3 +29,4 @@ Evaluate and Display MAPE in Tabular Format for all the models built.
 
 ## Reference -
 Applied AI
+https://www.appliedaicourse.com/
